@@ -1,0 +1,14 @@
+﻿Id;Nombre;Apellido;Sexo;País;Fecha de Nacimiento;Teléfono;Tarjeta de Crédito;Tarjeta de Crédito 2;Tipo de TDC;Fecha de TDC;CCV/CCV2;DPI;Estado;Saldo;Fecha de corte;Fecha de pago
+1;Bruce;Waine;Masculino;Gotham;19 de Febrero del 63;20142947;123456789;4645646446;6446;Master Card; nov(11) de 2014;815;001;1;15000000000000000000000;20;21
+2;Thomas;Wayne ;Masculino;Gotham;29 de Noviembre del 42;75969016;233081210;1210;Mastercard;Feb(2) de 2013;673;5542;002;250000000000000000000;12;13
+3;Martha;Wayne;Femenino;Guatemala;04 de Abril de 1953;97046214;315661162;1162;Mastercard;Feb(2) de 2013;678;003;1;21893;13;14
+4;Dick;Greyson;Masculino;Guatemala;11 de Noviembre del 76;69521768;851323952;3952;Visa;Ene(1) de 2016;621;004;1;34350;28;29
+5;Clark;Ken;Masculino;Guatemala;03 de Mayo del 87;78339580;248787043;7043;Mastercard;Feb(2) de 2013;587;005;1;32763;11;12
+6;Damian;Wayne;Masculino;Guatemala;09 de Agosto del 96;58908749;724310359;0359;Discovery;Feb(2) de 2013;900;006;1;61379;14;15
+7;Barbara;Gordon;Femenino;Guatemala;12 de Septiembre del 84;26328327;336955340;5340;Mastercard;Feb(2) de 2013;968;007;1;76612;12;13
+8;Harry;Potter;Masculino;Guatemala;31 de Julio del 80;93120136;703696300;6300;Visa;Feb(2) de 2013;108;008;1;74553;05;06
+9;Jonathan;Joestar;Masculino;Guatemala;30 de Octubre del 31;44398854;655341018;1018;Mastercard;Feb(2) de 2013;560;009;1;44605;10;11
+10;Joseph;Joestar;Masculino;Guatemala;27 de Septiembre del 20;92363819;538011930;1930;Discovery;Feb(2) de 2013;125;010;1;29442;18;19
+11;Joline;Joestar;Femenino;Guatemala;30 de Marzo del 1992;91076498;976947680;76860;Mastercard;Feb(2) de 2013;811;011;1;86792;04;05
+12;Mash;Abeyta;Femenino;Guatemala;25 de Julio del 00;26562803;538011930;1930;Visa;Feb(2) de 2013;615;012;1;4820;25;26
+13;Bad;Bunny;Femenino;Guatemala;10 de Marzo del 1994;95426288;514612536;2356;Mastercard;Feb(2) de 2013;844;013;1;10114;06;07
